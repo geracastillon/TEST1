@@ -1,1 +1,1 @@
-ola k asserts;
+let Hola: string;
